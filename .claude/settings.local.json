@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(./gradlew :backend:module:test-service:build *)"
+    ]
+  }
+}
